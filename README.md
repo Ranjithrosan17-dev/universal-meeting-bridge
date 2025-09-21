@@ -54,7 +54,7 @@ PORT=3978
 
 ```bash
 node index.js
-ngrok http 3978
+grok http 3978
 ```
 Set your bot's messaging endpoint in Azure to `https://<ngrok-url>.ngrok.io/api/messages`.
 
